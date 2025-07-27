@@ -1,0 +1,37 @@
+.ag-theme-alpine {
+    --ag-foreground-color: #212529;
+    --ag-background-color: #ffffff;
+    --ag-header-background-color: #e3f2fd;
+    --ag-border-color: #ced4da;
+    border-radius: 6px;
+  }
+  
+
+  .container {
+    max-width: 600px;
+  }
+  
+  .ag-grid-container {
+    width: 100%;
+    overflow-x: auto;
+    border-radius: 8px;
+  }
+  
+  @media (max-width: 576px) {
+    mat-form-field {
+      font-size: 14px;
+    }
+  
+    .mat-mdc-form-field-infix {
+      padding: 6px 0 !important;
+    }
+  
+    .ag-grid-container {
+      font-size: 12px;
+    }
+  
+    button {
+      width: 100%;
+    }
+  }
+  

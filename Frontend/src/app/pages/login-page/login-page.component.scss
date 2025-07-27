@@ -1,0 +1,31 @@
+.login-container {
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 30px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    border-radius: 10px;
+    background-color: #fff;
+  }
+  
+  .project-title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .full-width {
+    width: 100%;
+  }
+  
+  .btn-group {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .extras {
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+  }
+  
