@@ -1,6 +1,6 @@
 import {
   DOCUMENT
-} from "./chunk-NUW5QD2D.js";
+} from "./chunk-RU75X2SC.js";
 import {
   Directive,
   EventEmitter,
@@ -180,4 +180,4 @@ export {
   Dir,
   BidiModule
 };
-//# sourceMappingURL=chunk-I2T5U7FC.js.map
+//# sourceMappingURL=chunk-DR45MAVA.js.map
